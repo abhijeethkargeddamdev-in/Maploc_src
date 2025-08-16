@@ -54,7 +54,7 @@ A real-time device tracking application using **Node.js**, **Express**, **Socket
 
 ### Installation Steps
 ```bash
-git clone <repository-url>
+git clone <https://github.com/abhijeethkargeddamdev-in/Maploc_src.git>
 cd realtime-device-tracker
 npm install
 ```
